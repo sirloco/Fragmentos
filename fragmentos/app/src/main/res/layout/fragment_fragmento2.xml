@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragmento2"
+    android:background="@color/colorPrimary"
+    android:id="@+id/colorea2">
+
+
+    <Button
+        android:id="@+id/bAgretsuko"
+        style="@style/botones"
+        android:background="@drawable/agretsuko" />
+
+    <Button
+        android:id="@+id/bArale"
+        style="@style/botones"
+        android:background="@drawable/arale"
+        android:translationX="65dp" />
+
+
+    <Button
+        android:id="@+id/bTotoro"
+        style="@style/botones"
+        android:background="@drawable/totoro"
+        android:translationX="130dp" />
+
+</FrameLayout>

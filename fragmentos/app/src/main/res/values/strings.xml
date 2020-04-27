@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agretsuko">Aggretsuko</string>
+    <string name="arale">Arale</string>
+    <string name="totoro">Totoro</string>
+    <string name="logo">Logo</string>
+</resources>
